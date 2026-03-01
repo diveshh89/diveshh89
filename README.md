@@ -54,28 +54,24 @@
 - Web application for managing student data, registrations, and academic records  
 - Features: Admin panel, student CRUD operations, secure login system, responsive design  
 - Keywords: Django CRUD Web App, Backend, Database Management, Python Web Development  
-- **Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300?text=Student+Management+Portal+Screenshot)
 
 ### 🔹 [Stock Market Prediction Web App](https://github.com/diveshh89/stock-market-prediction)
 - **Technologies:** Python · Flask · Django · Machine Learning  
 - Predict stock trends using ML models with interactive dashboards  
 - Features: Data visualization, predictive analytics, automated reporting  
 - Keywords: Python ML Web App, Data Science, Flask Dashboard, Predictive Analytics  
-- **Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300?text=Stock+Market+Prediction+App)
 
 ### 🔹 [Backend API Authentication System](https://github.com/diveshh89/backend-api-auth)
 - **Technologies:** Django REST Framework · JWT · MySQL  
 - Secure API authentication system with login, registration, and token-based security  
 - Focused on API security, backend architecture, and authentication best practices  
 - Keywords: Django REST API, JWT, Backend Security, Python API  
-- **Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300?text=Backend+API+Auth+System)
 
 ### 🔹 [All-In-One Python Projects for Beginners](https://github.com/diveshh89/All-In-One-Python-Projects)
 - **Technologies:** Python · OOP · Tkinter · File Handling · Automation  
 - Collection of beginner-friendly Python projects for learning fundamentals  
 - Features: Games, small utilities, automation scripts, and GUI apps  
 - Keywords: Python Projects, Beginners, OOP, GUI, Automation, Learning  
-- **Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300?text=All-In-One+Python+Projects)
 
 ---
 
